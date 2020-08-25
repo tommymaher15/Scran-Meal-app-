@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Headbar = styled.header` 
 width:100%;
-background-color:#151559;
+background-color:#0b0342;
 grid-area: header;
 block-size: min(10vh);
 color:#ccccd9;
